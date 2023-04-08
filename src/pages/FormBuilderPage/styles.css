@@ -1,0 +1,14 @@
+.title {
+  width: 100%;
+  border: none;
+  font-size: 2rem;
+  border-bottom: 1px solid #d5d5d5;
+  color: var(--primary-300);
+  outline: none;
+}
+.save-btn {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  font-size: 2rem;
+}
